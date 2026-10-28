@@ -25,4 +25,6 @@ Imagens das máquinas (recortadas, com fundo removido e marcas cobertas pelas pl
 
 As versões editadas dessas imagens seguem sob as mesmas licenças.
 
+A primeira versão, com as máquinas desenhadas, continua em https://bruno475beep.github.io/pica-machines/v1/
+
 Fontes: Special Elite (Apache 2.0), Courier Prime, Cutive Mono e IBM Plex Mono (SIL Open Font License — veja `licenses/`).
