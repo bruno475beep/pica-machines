@@ -18,4 +18,11 @@ Todo o resto do Pica continua: notas de rodapé, cabeçalho e rodapé, papel env
 
 Os nomes das máquinas reais citados acima pertencem aos seus donos; este projeto não tem relação com eles e não usa suas marcas.
 
+Imagens das máquinas (recortadas, com fundo removido e marcas cobertas pelas plaquinhas do Pica):
+- Portable 22: foto de Austin Calhoon, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Olivetti_Lettera_22_Typewriter_Marcello_Nizzoli.jpg)
+- Office No. 5: ilustração em domínio público, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Underwood_Standard_Typewriter_No._5_(colored).jpg)
+- Golfball II: foto do Norsk Teknisk Museum, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:IBM_Selectric_II_model_99.jpg)
+
+As versões editadas dessas imagens seguem sob as mesmas licenças.
+
 Fontes: Special Elite (Apache 2.0), Courier Prime, Cutive Mono e IBM Plex Mono (SIL Open Font License — veja `licenses/`).
